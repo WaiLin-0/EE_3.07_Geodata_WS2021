@@ -25,10 +25,7 @@ We will use several special Python packages to process geodata and to interact w
 
 **Create a new Anaconda environment. Do NOT install the packages in the base environment!**
 
-```
-conda create --name geo
-conda activate geo
-conda install ...
-```
+**Go to [Set up your conda environment](gdal_conda_env.md)**
+
 
 For more information see [conda-cheatsheet.pdf](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)

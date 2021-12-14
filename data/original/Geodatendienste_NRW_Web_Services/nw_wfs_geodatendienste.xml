@@ -1,0 +1,9 @@
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.0">
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_atkis-basis-dlm_aaa-modell-basiert" name="NW ATKIS Basis-DLM"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_aaa-modell-basiert" name="NW Liegenschaftskataster NRW; ALKIS-AAA-Modell-basiert"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht" name="NW Liegenschaftskataster NRW; ALKIS-vereinfachtes Schema"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_dvg" name="NW Topographische Sonderkarten; Verwaltungsgrenzen"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_fzk" name="NW Topographische Sonderkarten; Freizeitkataster"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_utm_kacheln" name="NW Übersicht; UTM Kacheln"/>
+</qgsWFSConnections>
